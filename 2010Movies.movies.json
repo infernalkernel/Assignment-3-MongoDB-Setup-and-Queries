@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "573a1397f29313caabce888d"
+  },
+  "runtime": 239,
+  "title": "Jane Eyre",
+  "year": 1983
+},
+{
+  "_id": {
+    "$oid": "573a139af29313caabcf1b53"
+  },
+  "runtime": 277,
+  "title": "Tokyo Trial",
+  "year": 1983
+},
+{
+  "_id": {
+    "$oid": "573a1397f29313caabce88b0"
+  },
+  "runtime": 460,
+  "title": "The Thorn Birds",
+  "year": 1983
+},
+{
+  "_id": {
+    "$oid": "573a1397f29313caabce8896"
+  },
+  "runtime": 720,
+  "title": "Reilly: Ace of Spies",
+  "year": 1983
+}]
