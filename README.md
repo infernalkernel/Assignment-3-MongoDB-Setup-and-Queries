@@ -12,8 +12,10 @@ Used MongoDB Compass to run queries.
 Queries and Results
 
 # Query 1: Movies with Runtime > 200 minutes in 1983
+![Query 1](https://github.com/infernalkernel/Assignment-3-MongoDB-Setup-and-Queries/assets/120430168/9a67172e-5360-44b8-9810-a73fba3529b4)
 
 # Query 2: Movies after 2014 with IMDb Rating > 9
+![Query 2](https://github.com/infernalkernel/Assignment-3-MongoDB-Setup-and-Queries/assets/120430168/ced0eff2-3f7f-4b63-9895-b37130beef14)
 
 # Repository Structure
 screenshots: Contains screenshots of the MongoDB Compass interface with the queries and their results.
